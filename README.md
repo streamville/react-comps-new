@@ -4,11 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Configure Tailwind's packages specifically for this repo using:
 
-"npm install -D tailwindcss postcss autoprefixer"
+### "npm install -D tailwindcss postcss autoprefixer"
 
-"npm install prop-types"
+### "npm install prop-types"
 
-"npx tailwindcss init"
+### "npx tailwindcss init"
+
+****DO NOT use any other installation instructions***
 
 ## Available Scripts
 
