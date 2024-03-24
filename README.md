@@ -1,6 +1,16 @@
 # A bunch of reusuable components in React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and Tailwind CSS.
+
+Configure Tailwind's packages specifically for this repo using:
+
+### "npm install -D tailwindcss postcss autoprefixer"
+
+### "npm install prop-types"
+
+### "npx tailwindcss init"
+
+****DO NOT use any other installation instructions***
 
 ## Available Scripts
 
